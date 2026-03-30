@@ -24,7 +24,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
-            <span className="text-xl font-bold text-foreground hidden sm:inline">
+            <span className="text-xl font-bold text-foreground sm:inline">
               Maniks
             </span>
           </Link>
